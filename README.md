@@ -51,3 +51,4 @@ AI Suggestions
 ## Author
 
 Keerthi
+https://ai-resume-analyzer-bwbdsxpb6sredmmvt2xdwz.streamlit.app/
